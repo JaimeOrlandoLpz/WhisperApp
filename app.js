@@ -1,4 +1,5 @@
 //jshint esversion:6
+// Jaime Orlando López
 require('dotenv').config();
 const express = require("express");
 const bodyParser = require("body-parser");
